@@ -5,7 +5,7 @@ phases:
   install:
     runtime-versions:
       ruby: 2.6
-      nodejs: 12
+      nodejs: 8
     commands:
       - rbenv install 2.6.0
       - rbenv global 2.6.0
